@@ -6,10 +6,10 @@
 name: Aadeshnpn
 
 # Short bio or description (displayed in the header)
-description: “Life is about Memories, Dreams and Guff. On basis of memories of my dreams, I deliver guff.” Developer @ Inspiring Lab
+description: AI Engineer @ Inspiring Lab
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+avatar: https://avatars0.githubusercontent.com/u/1760420?v=3&s=460
 
 #
 # Flags below are optional
@@ -23,10 +23,10 @@ footer-links:
   flickr:
   github: aadeshnpn
   instagram:
-  linkedin:
+  linkedin: https://np.linkedin.com/pub/aadesh-neupane/53/42b/a83
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: aadeshnpn
+  twitter: neupaneaadesh
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: aadeshnpn.com.np
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
